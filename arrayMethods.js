@@ -24,3 +24,6 @@ genericNumberArray.push(6, 7, 8, 9, 10);
 
 //pop()
 var popResult = colors.pop();
+
+//reverse()
+scrambledWords.reverse();
