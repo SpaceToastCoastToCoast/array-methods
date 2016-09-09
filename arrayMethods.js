@@ -44,3 +44,6 @@ brownOnly.splice(1, 5, 'brown', 'brown', 'brown');
 
 //unshift()
 orderedValuesNewLength = orderedValues.unshift(1, 2, 3);
+
+//concat()
+randomThingsArray = genericNumberArray.concat(colors);
