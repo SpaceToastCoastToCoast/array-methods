@@ -48,3 +48,6 @@ orderedValuesNewLength = orderedValues.unshift(1, 2, 3);
 //concat()
 randomThingsArray = genericNumberArray.concat(colors);
 updatedOrders = orderQueue.concat([{ takeOut : 'Bagel' }, { takeOut: 'Coffee' }]);
+
+//join()
+var sentence = scrambledWords.join(" ");
