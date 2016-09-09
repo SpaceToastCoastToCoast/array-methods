@@ -31,3 +31,5 @@ phoneNumber.reverse();
 
 //shift()
 var nextOrder = orderQueue.shift();
+
+mixedNums.sort();
