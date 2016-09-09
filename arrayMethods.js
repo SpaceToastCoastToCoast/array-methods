@@ -59,3 +59,6 @@ owesMoney = friends.slice(3, 6);
 
 //toString
 var monthNameString = monthNames.toString();
+
+//indexOf
+var favoriteColor = colors.indexOf('Red');
