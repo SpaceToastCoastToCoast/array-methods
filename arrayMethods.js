@@ -35,4 +35,4 @@ var nextOrder = orderQueue.shift();
 mixedNums.sort();
 mixedWords.sort();
 
-fruitCollection.splice(1, 3);
+notFruit = fruitCollection.splice(1, 3);
